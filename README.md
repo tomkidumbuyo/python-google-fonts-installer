@@ -6,3 +6,5 @@ This project contains the binary font files served by Google Fonts: https://font
 python app.py
 ```
 
+and just like that you'll have all the fonts in your pc to use.
+
