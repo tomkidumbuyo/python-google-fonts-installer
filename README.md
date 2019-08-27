@@ -1,4 +1,4 @@
-# Google Fonts Files installer for windows
+# Google Fonts Files installer for windows using python
 
 This project contains the binary font files served by Google Fonts: https://fonts.google.com, to install this project you python in your system. then run the following commands.
 
